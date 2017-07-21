@@ -12,7 +12,7 @@
 		var countDownContainer = $('.count-down');
 		if (countDownContainer.length) {
 			countDownContainer.countdown({
-				date: "December 31, 2015 23:59:59"
+				date: "August 20, 2017 10:00:00"
 			});
 		};
 	}
